@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 6813-7854
+
+ Directory of C:\Users\harsh\Desktop\My project
+
+29-08-2021  11:25    <DIR>          .
+29-08-2021  11:25    <DIR>          ..
+29-08-2021  11:25                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  200,472,788,992 bytes free
